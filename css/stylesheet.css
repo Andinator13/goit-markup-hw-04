@@ -160,6 +160,7 @@ img {
     url(../images/hero/bg-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: auto;
 }
 
 .main-heading {
@@ -298,6 +299,22 @@ img {
   text-align: center;
   color: #434455;
 }
+
+.icon-list {
+  display: flex;
+  gap: 24px;
+}
+.item-icon {
+}
+.icon-link {
+  background-color: #4d5ae5;
+  height: 40px;
+  width: 40px;
+}
+.our-team-icon {
+  fill: ;
+}
+
 /* #endregion */
 
 /* #region Portfolio */
