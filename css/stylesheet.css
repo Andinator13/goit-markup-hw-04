@@ -186,6 +186,7 @@ img {
   background-position: center;
   background-size: auto;
   max-width: 1440px;
+  background-size: cover;
 }
 
 .main-heading {
