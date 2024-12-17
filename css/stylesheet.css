@@ -259,9 +259,8 @@ img {
   background-color: #f4f4fd;
   margin-bottom: 8px;
   display: flex;
-}
-
-.benefits-icon {
+  align-items: center;
+  justify-content: center;
 }
 
 .benefits-sub-heading {
