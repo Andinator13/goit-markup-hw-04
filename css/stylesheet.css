@@ -258,6 +258,10 @@ img {
   height: 112px;
   background-color: #f4f4fd;
   margin-bottom: 8px;
+  display: flex;
+}
+
+.benefits-icon {
 }
 
 .benefits-sub-heading {
