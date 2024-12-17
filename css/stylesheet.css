@@ -338,6 +338,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .icon-list {
@@ -346,6 +347,9 @@ img {
   justify-content: center;
 }
 .item-icon {
+  width: 40px;
+  height: 40px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .icon-link {
   background-color: #4d5ae5;
